@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository.
 
-I’m a passionate learner and aspiring developer who enjoys building useful projects, solving problems, and continuously improving my skills. I’m interested in software development, web technologies, and open-source learning.
+I’m a passionate learner and aspiring developer who enjoys building useful projects, solving problems, and continuously improving my skills. I’m interested in software development, Ai-ML,DSA  Research paper  and open-source learning.
 
 ## About Me
 - I enjoy learning new technologies and tools.
