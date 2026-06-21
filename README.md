@@ -11,8 +11,6 @@ I’m a passionate learner and aspiring developer who enjoys building useful pro
 
 ## Skills
 - Problem solving
-- Web development basics
-- Git and GitHub
 - Writing clean and simple code
 
 ## Projects
@@ -20,7 +18,7 @@ I’m currently working on building projects that help me learn by doing and imp
 
 ## Contact
 Feel free to connect with me:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [your-username](https://github.com/raman000)
+- Email:ramanrbl1327@gmail.com.com
 
 Thank you for visiting!
